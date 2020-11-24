@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cestbientotlefrancisliveshow": {
+      "hosting": {
+        "francisliveshow": [
+          "cestbientotlefrancisliveshow"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "cestbientotlefrancisliveshow"
+  }
+}
